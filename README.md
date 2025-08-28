@@ -48,7 +48,8 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  (https://github.com/F2Codes/F2Codes/blob/output/github-snake-dark.svg)
+
+  https://github.com/F2Codes/F2Codes/blob/output/github-snake.svg
   
   <br/><br/><br/>
 </div>
