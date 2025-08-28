@@ -48,7 +48,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="file:///C:/Users/uz9er/Downloads/github-user-contribution.svg" />
+  ![snake gif](https://github.com/F2Codes/F2Codes/blob/output/github-snake-dark.svg)
   
   <br/><br/><br/>
 </div>
