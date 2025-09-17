@@ -36,6 +36,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F2Codes&stats_format=bytes&theme=dark)
  
 
-<a href="https://github.com/F2Codes/github-readme-stats">
+<a item-align="center" href="https://github.com/F2Codes/github-readme-stats">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=F2Codes&theme=dark" />
 </a>
