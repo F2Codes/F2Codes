@@ -1,10 +1,3 @@
-<a href="https://github.com/F2Codes/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=F2Codes&theme=dark" />
-</a>
-<a href="https://github.com/F2Codes/">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=F2Codes&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=F2Codes.F2Codes" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Matin+Hajzeinali!;" />
 </h1>
@@ -41,8 +34,9 @@
  
 
 <a href="https://github.com/F2Codes/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=F2Codes" />
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=F2Codes&theme=dark" />
 </a>
+
 
 <br/>
 <hr/>
