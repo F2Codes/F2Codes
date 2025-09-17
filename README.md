@@ -30,7 +30,7 @@
   </a>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F2Codes&stats_format=bytes)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F2Codes&stats_format=bytes&theme=dark)
  
 
 <a href="https://github.com/F2Codes/github-readme-stats">
