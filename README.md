@@ -12,6 +12,7 @@
  
  🌱 I’m currently learning **IOS Programming**
 
+ 🌐🆓 Determined for a **free internet for all!**
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/F2Codes/F2Codes/issues)**
 
 ⚡ Fun fact **Python has bitten me once😁**
