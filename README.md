@@ -13,7 +13,9 @@
  🌱 I’m currently learning **IOS Programming**
 
  🌐🆓 Determined for a **free internet for all!**
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/F2Codes/F2Codes/issues)**
+
+ 
+ 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/F2Codes/F2Codes/issues)**
 
 ⚡ Fun fact **Python has bitten me once😁**
 
@@ -37,13 +39,3 @@
 <a href="https://github.com/F2Codes/github-readme-stats">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=F2Codes&theme=dark" />
 </a>
-
-
-<br/>
-<hr/>
-
-
-</div>
-
-<hr/>
-
