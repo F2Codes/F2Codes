@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">A passionate software developer from IRAN</h3>
-<h3 align="center">Press F2 On your Keyboards Im ther! Dont have F2? Use shortcut F + 2 !</h3>
+<h3 align="center">Press F2 On your Keyboards Im there! Dont have F2? Use shortcut F + 2 !</h3>
 
 <br/>
 
