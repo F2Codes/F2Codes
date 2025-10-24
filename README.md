@@ -38,7 +38,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,go,java,js,ts,kotlin,swift,lua,matlab,php,perl,py,r,ruby,rust," />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,go,java,js,ts,kotlin,swift,lua,matlab,php,perl,py,r" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,rust" />
   </a>
 </p>
 
