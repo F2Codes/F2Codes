@@ -37,6 +37,7 @@
      <img src="https://skillicons.dev/icons?i=twitter" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+<hr>
 
 
 
