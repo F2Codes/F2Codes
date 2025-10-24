@@ -26,7 +26,7 @@
  
 <div align="center"> 
   <a href="mailto:matinf2dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://skillicons.dev/icons?i=gmail&perline=3" />
   </a>
   <a href="https://linkedin.com/in/matin-hajzeinali" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -36,17 +36,6 @@
   </a>
 </div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,go,java,js,ts,kotlin,swift,lua,matlab,php,perl,py,r" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rust" />
-  </a>
-</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F2Codes&stats_format=bytes&theme=dark)
  
