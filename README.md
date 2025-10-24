@@ -36,9 +36,10 @@
   </a>
 </div>
 
-<a align="center">
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F2Codes&stats_format=bytes&theme=dark)
-</a>
+
  
 
 <a item-align="center" href="https://github.com/F2Codes/github-readme-stats">
