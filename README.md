@@ -26,7 +26,7 @@
 
  <hr>
  
-<div align="center"> 
+<div margin-left="10px" align="center"> 
   <a href="mailto:matinf2dev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&perline=3" />
   </a>
