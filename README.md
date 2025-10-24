@@ -23,6 +23,8 @@
 ⚡ Fun fact **Python has bitten me once😁**
 
  </div>
+
+ <hr>
  
 <div align="center"> 
   <a href="mailto:matinf2dev@gmail.com">
