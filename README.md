@@ -36,6 +36,12 @@
   </a>
 </div>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,go,java,js,ts,kotlin,swift,lua,matlab,php,perl,py,r,ruby,rust," />
+  </a>
+</p>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F2Codes&stats_format=bytes&theme=dark)
  
 
