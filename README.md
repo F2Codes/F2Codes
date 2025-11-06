@@ -9,14 +9,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Minecraft server software**
- 
- 🌱 I’m currently learning **Assembly!**
+ 💻 **Programmer**
 
- 🌐🆓 Determined for a **free internet for all!**
+ 🤖 **Software & Automation Engineer**
 
- 🏹🎆Love **Artemis**
-
+ ⌨️🎆 **Graphic Designer**
  
  💬 Ask me about **DevOps, Node.js, React, Firebase... or anything [here](https://github.com/F2Codes/F2Codes/issues)**
 
