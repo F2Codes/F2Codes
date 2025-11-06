@@ -13,6 +13,8 @@
 
  🤖 **Software & Automation Engineer**
 
+ 🌐 **DevOps**
+
  ⌨️🎆 **Graphic Designer**
  
  💬 Ask me about **DevOps, Node.js, React, Firebase... or anything [here](https://github.com/F2Codes/F2Codes/issues)**
@@ -39,6 +41,11 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F2Codes&stats_format=bytes&theme=dark)
+
+
+
+
+<img src="https://skillicons.dev/icons?i=au,ae,ps,xd,figma">
 
  
 
