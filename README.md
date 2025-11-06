@@ -44,8 +44,9 @@
 
 
 
-
-<img src="https://skillicons.dev/icons?i=au,ae,ps,xd,figma">
+<a align="center">
+<img src="https://skillicons.dev/icons?i=au,ae,ai,ps,xd,figma">
+</a>
 
  
 
