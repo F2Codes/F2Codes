@@ -43,10 +43,11 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F2Codes&stats_format=bytes&theme=dark)
 
 
-
-<a align="center">
+<p align="center">
+  <a src="https://skillicons.dev/">
 <img src="https://skillicons.dev/icons?i=au,ae,ai,ps,xd,figma">
-</a>
+  </a>
+</p>
 
  
 
