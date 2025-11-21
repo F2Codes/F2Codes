@@ -46,7 +46,7 @@
 
 <p align="center">
   <a src="https://skillicons.dev/">
-<img src="https://skillicons.dev/icons?i=au,ae,ai,ps,xd,figma">
+<img src="https://skillicons.dev/icons?i=go,js,py,au,ae,ai,ps,xd,figma">
   </a>
 </p>
 
