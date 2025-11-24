@@ -13,6 +13,8 @@
 
  🤖 **Software & Automation Engineer**
 
+ 💙⌚ Favourite Watch? **MISSION TO NEPTUNE**
+
  🌐 **DevOps**
 
  ⌨️🎆 **Graphic Designer**
