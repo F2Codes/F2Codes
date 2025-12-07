@@ -59,3 +59,6 @@
 <a item-align="center" href="https://github.com/F2Codes/github-readme-stats">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=F2Codes&theme=dark" />
 </a>
+
+<hr>
+<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-post="telegram/83" data-width="100%"></script>
