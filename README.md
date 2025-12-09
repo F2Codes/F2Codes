@@ -24,7 +24,7 @@
 
  </div>
 
- <hr>
+<h3>Socials</h3>
  
 <div margin-left="10px" align="center"> 
   <a href="mailto:matinf2dev@gmail.com">
