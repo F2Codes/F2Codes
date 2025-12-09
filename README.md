@@ -89,3 +89,9 @@
   <a src="https://skillicons.dev/">
 <img src="https://skillicons.dev/icons?i=bash,powershell,md,replit">
   </a>
+ <br>
+ <hr>
+ <h2>Stats</h2>
+ <a align="center" href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=F2Codes&theme=transparent&hide_border=true" alt="GitHub Streak" />
+ </a>
