@@ -59,7 +59,7 @@
 <h3>Backend and other Web tools</h3>
 <p align="center">
   <a src="https://skillicons.dev/">
-<img src="https://skillicons.dev/icons?i=django,express,fastapi.flask,mongodb,nodejs,supabase,vercel">
+<img src="https://skillicons.dev/icons?i=django,express,fastapi,flask,mongodb,nodejs,supabase,vercel,wasm">
   </a>
 </p>
 
