@@ -45,7 +45,7 @@
 <h3>Languages</h3>
 <p align="center">
   <a src="https://skillicons.dev/">
-<img src="https://skillicons.dev/icons?i=go,py,js,ts,lua,php,r,ruby,rust,java">
+<img src="https://skillicons.dev/icons?i=go,py,flutter,,js,ts,lua,php,r,ruby,rust,java">
   </a>
 </p>
 <hr>
@@ -53,6 +53,13 @@
 <p align="center">
   <a src="https://skillicons.dev/">
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,threejs,bootstrap,vite,vue">
+  </a>
+</p>
+<hr>
+<h3>Backend and other Web tools</h3>
+<p align="center">
+  <a src="https://skillicons.dev/">
+<img src="https://skillicons.dev/icons?i=django,express,fastapi.flask,mongodb,nodejs,supabase,vercel">
   </a>
 </p>
 
