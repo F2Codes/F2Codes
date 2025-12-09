@@ -74,9 +74,15 @@
   <a src="https://skillicons.dev/">
 <img src="https://skillicons.dev/icons?i=linux,bitbucket,azure,aws,cloudflare,docker,firebase,gcp,git,githubactions,gitlab,jenkins,kubernetes">
   </a>
- <hr>
+<hr>
 <h3>Designing</h3>
 <p align="center">
   <a src="https://skillicons.dev/">
 <img src="https://skillicons.dev/icons?i=figma,ps,pr,xd">
+  </a>
+  <hr>
+<h3>Other Tools</h3>
+<p align="center">
+  <a src="https://skillicons.dev/">
+<img src="https://skillicons.dev/icons?i=bash,powershell,md,replit">
   </a>
