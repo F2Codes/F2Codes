@@ -37,6 +37,9 @@
   <a href="https://twitter.com/Not_matin0/" target="_blank">
      <img src="https://skillicons.dev/icons?i=twitter" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <a href="https:/https://dev.to/f2dev/">
+    <img src="https://skillicons.dev/icons?i=devto&perline=3" />
+  </a>
 </div>
 
 
