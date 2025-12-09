@@ -90,6 +90,4 @@
 <img src="https://skillicons.dev/icons?i=bash,powershell,md,replit">
   </a>
  <br>
- <hr>
- <h2>Stats</h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?F2Codes=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
