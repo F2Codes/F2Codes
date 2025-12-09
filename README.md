@@ -72,5 +72,5 @@
 <h3>DevOps</h3>
 <p align="center">
   <a src="https://skillicons.dev/">
-<img src="https://skillicons.dev/icons?i=linux,bitbucket,azure,aws,clodflare,docker,firebase,gcp,git,githubactions,gitlab,jenkins,kubernetes">
+<img src="https://skillicons.dev/icons?i=linux,bitbucket,azure,aws,cloudflare,docker,firebase,gcp,git,githubactions,gitlab,jenkins,kubernetes">
   </a>
