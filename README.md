@@ -45,7 +45,7 @@
 <h3>Languages</h3>
 <p align="center">
   <a src="https://skillicons.dev/">
-<img src="https://skillicons.dev/icons?i=go,py,flutter,,js,ts,lua,php,r,ruby,rust,java">
+<img src="https://skillicons.dev/icons?i=go,py,flutter,js,ts,lua,php,r,ruby,rust,java">
   </a>
 </p>
 <hr>
