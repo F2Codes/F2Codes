@@ -45,9 +45,15 @@
 <h3>Languages</h3>
 <p align="center">
   <a src="https://skillicons.dev/">
-<img src="https://skillicons.dev/icons?i=go,py,js,lua,php,r,ruby,rust">
+<img src="https://skillicons.dev/icons?i=go,py,js,ts,lua,php,r,ruby,rust,java">
   </a>
 </p>
-
+<hr>
+<h3>Frontend</h3>
+<p align="center">
+  <a src="https://skillicons.dev/">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,threejs">
+  </a>
+</p>
 
 
