@@ -52,7 +52,7 @@
 <h3>Frontend</h3>
 <p align="center">
   <a src="https://skillicons.dev/">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,threejs">
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,threejs,bootstrap,vite,vue">
   </a>
 </p>
 
