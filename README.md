@@ -61,5 +61,11 @@
 <img src="https://skillicons.dev/icons?i=django,express,fastapi,flask,mongodb,nodejs,supabase,vercel,wasm">
   </a>
 </p>
+<hr>
+<h3>Mobile DEV</h3>
+p align="center">
+  <a src="https://skillicons.dev/">
+<img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,swift">
+  </a>
 
 
