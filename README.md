@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+F2²!;" />
-</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2368F7&width=435&lines=Hello%2C+I'm+Matin!;A+Developer+from+IRAN.)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate software developer from IRAN</h3>
 <h3 align="center">Press <kdb>F2</kdb> On your Keyboards Im there! Dont have F2? Use shortcut F + 2 !</h3>
