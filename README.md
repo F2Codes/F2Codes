@@ -38,10 +38,7 @@
      <img src="https://skillicons.dev/icons?i=twitter" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-<hr>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=F2Codes&stats_format=bytes&theme=dark)
 
 
 <hr>
@@ -53,10 +50,4 @@
 </p>
 
 
-<hr>
- 
-
-<a item-align="center" href="https://github.com/F2Codes/github-readme-stats">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=F2Codes&theme=dark" />
-</a>
 
