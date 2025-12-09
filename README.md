@@ -92,4 +92,4 @@
  <br>
  <hr>
  <h2>Stats</h2>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=F2Codes&theme=telegram&hide_border=true" alt="GitHub Streak" /></a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?F2Codes=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
