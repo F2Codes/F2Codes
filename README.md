@@ -78,5 +78,5 @@
 <h3>Designing</h3>
 <p align="center">
   <a src="https://skillicons.dev/">
-<img src="https://skillicons.dev/icons?i=Figma,ps,pr,xd">
+<img src="https://skillicons.dev/icons?i=figma,ps,pr,xd">
   </a>
