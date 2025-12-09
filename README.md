@@ -1,4 +1,4 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D6AF7&width=435&lines=Hello%2C+I'm+Matin!;A+Developer+from+IRAN." alt="Typing SVG" /></a>
+<a text-align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D6AF7&width=435&lines=Hello%2C+I'm+Matin!;A+Developer+from+IRAN." alt="Typing SVG" /></a>
 
 <h3 align="center">A passionate software developer from IRAN</h3>
 <h3 align="center">Press <kdb>F2</kdb> On your Keyboards Im there! Dont have F2? Use shortcut F + 2 !</h3>
