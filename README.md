@@ -24,6 +24,7 @@
 
  </div>
 
+<hr>
 <h3>Socials</h3>
  
 <div margin-left="10px" align="center"> 
@@ -67,5 +68,6 @@
   <a src="https://skillicons.dev/">
 <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,swift">
   </a>
-
+<hr>
+<h3></h3>
 
