@@ -63,7 +63,7 @@
 </p>
 <hr>
 <h3>Mobile DEV</h3>
-p align="center">
+<p align="center">
   <a src="https://skillicons.dev/">
 <img src="https://skillicons.dev/icons?i=dart,flutter,kotlin,swift">
   </a>
