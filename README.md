@@ -45,7 +45,7 @@
 
 
 <hr>
-
+<h3>Languages</h3>
 <p align="center">
   <a src="https://skillicons.dev/">
 <img src="https://skillicons.dev/icons?i=go,js,py,au,ae,ai,ps,xd,figma">
@@ -60,5 +60,3 @@
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=F2Codes&theme=dark" />
 </a>
 
-<hr>
-<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-post="telegram/83" data-width="100%"></script>
