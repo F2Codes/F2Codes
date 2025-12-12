@@ -12,7 +12,7 @@
 
  🤖 **Software & Automation Engineer**
 
- 💙⌚ Favourite Watch? **MISSION TO NEPTUNE**
+ 💙⌚ Favourite Watch? <a href="https://www.swatch.com/en-en/bioceramic-moonswatch-collection/bioceramic-moonswatch/mission-to-neptune.html">**MISSION TO NEPTUNE**</a>
 
  🌐 **DevOps**
 
