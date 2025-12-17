@@ -14,13 +14,25 @@
 
  Web DEV, graduated by **Meta**
 <!--UNPKG-->
-<img height="64" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/meta-avatar.svg" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/dark/Meta-Avatar.webp"
+  />
+  <img height="64" src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/Meta-Avatar.webp" />
+</picture>
 
 <!--ALIYUN-->
-<img
-  height="64"
-  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/meat-avatar.svg"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/dark/Meta-Avatar.webp"
+  />
+  <img
+    height="64"
+    src="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/light/Meta-Avatar.webp"
+  />
+</picture>
 
 
 
