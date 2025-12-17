@@ -17,11 +17,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/dark/Meta.webp"
+    srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/dark/Meta-color.webp"
   />
   <img
     height="64"
-    src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/Meta.webp"
+    src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/Meta-color.webp"
   />
 </picture>
 
