@@ -12,8 +12,18 @@
 
  🤖 **Software & Automation Engineer**
 
- Web DEV, graduated by **Meta** <!--UNPKG-->
-<img src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/icons/meta-color.svg" width="56" />
+ Web DEV, graduated by **Meta**
+ <!--UNPKG-->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/dark/Meta-color.webp"
+  />
+  <img
+    height="64"
+    src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/Meta-color.webp"
+  />
+</picture>
 
 
 
