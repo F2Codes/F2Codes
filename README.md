@@ -16,9 +16,9 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/dark/Meta.webp"
+    srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/dark/Meta.BrandColor.webp"
   />
-  <img height="64" src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/Meta.webp" />
+  <img height="64" src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/Meta.BrandColor.webp" />
 
 
  💙⌚ Favourite Watch? <a href="https://www.swatch.com/en-en/bioceramic-moonswatch-collection/bioceramic-moonswatch/mission-to-neptune.html">**MISSION TO NEPTUNE**</a>
