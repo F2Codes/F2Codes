@@ -13,10 +13,13 @@
  🤖 **Software & Automation Engineer**
 
  Web DEV, graduated by **Meta**
+<!--UNPKG-->
+<img height="64" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/meta-avatar.svg" />
+
+<!--ALIYUN-->
 <img
-  src="https://raw.githubusercontent.com/lobehub/lobe-icons/main/icons/meta-avatar.svg"
-  width="56"
-  height="56"
+  height="64"
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/meat-avatar.svg"
 />
 
 
