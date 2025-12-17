@@ -17,7 +17,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/dark/Meta-color.webp"
+    srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/dark/Meta-BrandColor.webp"
   />
   <img
     height="64"
