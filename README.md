@@ -14,7 +14,7 @@
 
  Web DEV, graduated by **Meta**
 <!--UNPKG-->
-<img height="64" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/Meta-Avatar.svg" />
+<img height="64" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/Meta-color.svg" />
 
 
 
