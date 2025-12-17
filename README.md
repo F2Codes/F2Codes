@@ -18,7 +18,7 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/Meta-Avatar.png"
+    srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/Meta-color.png"
   />
   <img
     height="64"
