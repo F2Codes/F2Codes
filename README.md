@@ -18,11 +18,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/meta-avatar.png"
+    srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/meta-color.png"
   />
   <img
     height="64"
-    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/meta-avatar.png"
+    src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/meta-color.png"
   />
 </picture>
 
