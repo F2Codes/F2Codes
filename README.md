@@ -10,6 +10,8 @@
  
  💻 **Programmer**
 
+ 💙I love **React.js**
+
  🤖 **Software & Automation Engineer**
 
  Web DEV, graduated by **Meta**
