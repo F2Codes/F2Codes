@@ -22,18 +22,6 @@
   <img height="64" src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/Meta-Avatar.webp" />
 </picture>
 
-<!--ALIYUN-->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/dark/Meta-Avatar.webp"
-  />
-  <img
-    height="64"
-    src="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/light/Meta-Avatar.webp"
-  />
-</picture>
-
 
 
 
