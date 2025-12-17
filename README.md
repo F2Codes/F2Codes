@@ -14,14 +14,13 @@
 
  Web DEV, graduated by **Meta**
 <!--UNPKG-->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/dark/Meta-Avatar.webp"
-  />
-  <img height="64" src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/Meta-Avatar.webp" />
-</picture>
+<img height="64" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/meta-avatar.svg" />
 
+<!--ALIYUN-->
+<img
+  height="64"
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/meta-avatar.svg"
+/>
 
 
 
