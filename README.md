@@ -12,6 +12,27 @@
 
  🤖 **Software & Automation Engineer**
 
+ Web DEV, graduated by **Meta** <!--UNPKG-->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://unpkg.com/@lobehub/icons-static-webp@latest/dark/Meta.webp"
+  />
+  <img height="64" src="https://unpkg.com/@lobehub/icons-static-webp@latest/light/Meta.webp" />
+</picture>
+
+<!--ALIYUN-->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/dark/openai.webp"
+  />
+  <img
+    height="64"
+    src="https://registry.npmmirror.com/@lobehub/icons-static-webp/latest/files/light/openai.webp"
+  />
+</picture>
+
  💙⌚ Favourite Watch? <a href="https://www.swatch.com/en-en/bioceramic-moonswatch-collection/bioceramic-moonswatch/mission-to-neptune.html">**MISSION TO NEPTUNE**</a>
 
  🌐 **DevOps**
