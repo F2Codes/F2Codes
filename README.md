@@ -14,13 +14,7 @@
 
  Web DEV, graduated by **Meta**
 <!--UNPKG-->
-<img height="64" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai-text.svg" />
-
-<!--ALIYUN-->
-<img
-  height="64"
-  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/openai-text.svg"
-/>
+<img height="64" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/Meta-Avatar.svg" />
 
 
 
