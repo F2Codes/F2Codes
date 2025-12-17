@@ -16,11 +16,6 @@
 <!--UNPKG-->
 <img height="64" src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/meta-avatar.svg" />
 
-<!--ALIYUN-->
-<img
-  height="64"
-  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/meta-avatar.svg"
-/>
 
 
 
