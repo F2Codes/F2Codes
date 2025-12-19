@@ -60,11 +60,7 @@
 </div>
 <hr>
 <h3><b>Skills!<b></h3>
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,html,css&perline=3)](https://skillicons.dev)
 <hr>
 <h3>Stats & Top Languages</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
