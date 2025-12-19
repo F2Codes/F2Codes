@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 💻 **Programmer**
+ 💻 **FullStack DEV**
 
  💙I love **React.js**
 
@@ -58,9 +58,6 @@
     <img src="https://skillicons.dev/icons?i=devto&perline=3" />
   </a>
 </div>
-<hr>
-<h3><b>Skills!<b></h3>
-<p>I'm FullStack(; What are you searching For? Icons?</p>
 <hr>
 <h3>Stats & Top Languages</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
