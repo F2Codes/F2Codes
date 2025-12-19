@@ -60,11 +60,7 @@
 </div>
 <hr>
 <h3><b>Skills!<b></h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,wasm,nodejs,nextjs,bootstrap,python,go,dart,flutter,swift,java,c,cpp,cs,ruby,rust,bash,powershell,vue,vite&perline=7" />
-  </a>
-</p>
+<p>I'm FullStack(; What are you searching For? Icons?</p>
 <hr>
 <h3>Stats & Top Languages</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
