@@ -60,7 +60,11 @@
 </div>
 <hr>
 <h3><b>Skills!<b></h3>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 <hr>
 <h3>Stats & Top Languages</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
