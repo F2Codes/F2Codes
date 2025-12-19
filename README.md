@@ -58,6 +58,10 @@
     <img src="https://skillicons.dev/icons?i=devto&perline=3" />
   </a>
 </div>
+<hr>
+<h3>Stats</h3>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?F2Codes=anuraghazra&size_weight=0.5&count_weight=0.5)
+
 
 
 
