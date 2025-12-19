@@ -65,6 +65,7 @@
     <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" />
   </a>
 </p>
+<hr>
 <h3>Stats & Top Languages</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" align="center"
