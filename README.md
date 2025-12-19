@@ -65,7 +65,7 @@
     src="https://github-readme-stats.vercel.app/api?username=F2Codes&theme=transparent" />
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<div style="width: 20px; display: inline-block;"></div>
 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="200" align="center"
