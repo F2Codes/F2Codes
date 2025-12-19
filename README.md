@@ -62,7 +62,7 @@
 <h3><b>Skills!<b></h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,wasm,nodejs" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,wasm,nodejs,nextjs,bootstrap&perline=10" />
   </a>
 </p>
 <hr>
