@@ -11,7 +11,7 @@ Email: matincodes@proton.me
 
 ---
 ### ⚙ What I Work With:
-<p>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,githubactions,gitlab,jenkins,docker,kubernetes,bitbucket,cloudflare,dotnet,js,ts,html,css,tailwind,nextjs,vercel,vite,react,flask,py,r,rust,ruby,go,java,swift,php,powershell,bash,pytorch,flutter,kotlin,supabase,php,threejs" />
   </a>
