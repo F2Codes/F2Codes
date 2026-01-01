@@ -30,3 +30,7 @@ Favorite Subjects:
 
 Favourite_Watch:
   - Omega x Swatch: Mission to Neptune
+
+a determined striver for internet freedom!
+
+#Free_ Internet_for_everyone
