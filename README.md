@@ -1,5 +1,4 @@
-Matin,
-Love Machines, Mathematics, Physics & Chemistry.
-Teenage Developer.
-Love everything that's Blue!
-I Like Mission To Neptune Watch.
+**Matin,**
+**A Teenage Developer,**
+**Love Mathematics, Physics & Chemistry!**
+**I like everything that's Blue!💙**
