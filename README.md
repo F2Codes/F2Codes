@@ -6,7 +6,7 @@ Hi! I'm Matin, a software engineer focused on Web Development, Backend systems, 
 
 [![blog](https://img.shields.io/badge/BLOG-151515?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@imatin)
 [![portfolio](https://img.shields.io/badge/PORTFOLIO-151515?style=for-the-badge&logo=github&logoColor=white)](http://matindev.lovable.app)
-[![github](https://img.shields.io/badge/GITHUB_PROFILE-151515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imatin)
+[![github](https://img.shields.io/badge/GITHUB_PROFILE-151515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/F2Codes)
 
 <br/>
 
