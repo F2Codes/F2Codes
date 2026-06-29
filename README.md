@@ -1,6 +1,6 @@
 <div align="center"> 
 
-## Hello I'm Software Engineer MATIN 👨‍💻✨
+## Hello I'm MATIN 👨‍💻✨
 
 Hi! I'm Matin, a software engineer focused on Web Development, Backend systems, and AI tools 🚀
 
