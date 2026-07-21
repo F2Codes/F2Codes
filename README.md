@@ -14,6 +14,3 @@ Hi! I'm Matin, a software engineer focused on Web Development, Backend systems, 
 ![](https://github-profile-trophy.vercel.app/?username=imatin&theme=darkhub&column=5&row=2&no-bg=true&no-frame=true)
 
 </div>
-
-
-![Uploading compressed-1784628296012.gif…]()
