@@ -15,6 +15,5 @@ Hi! I'm Matin, a software engineer focused on Web Development, Backend systems, 
 
 </div>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/VT8jhJ4mog4AAAAC/spoke-is-here-dance.gif" width="250" alt="Spoke Is Here Dance">
-</p>
+https://github.com/user-attachments/assets/687e9db3-fd96-4a21-806b-446390f3a7cb
+
